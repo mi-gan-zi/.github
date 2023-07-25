@@ -65,8 +65,8 @@
        <td align="center" width="200px">
         <img width="100%" src="https://avatars.githubusercontent.com/u/83696912?v=4"  alt=""/>
         DE.<br/>
-        <a href="">
-          <img src="https://img.shields.io/badge/제이-000000?style=flat-round&logo=GitHub&logoColor=white"/>
+        <a href="https://www.behance.net/jaeyoonahn/moodboards">
+          <img src="https://img.shields.io/badge/제이-1769FF?style=flat-round&logo=behance&logoColor=white"/>
         </a>
       </td>
      </tr>
