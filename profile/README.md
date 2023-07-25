@@ -7,6 +7,13 @@
 
 ## ⛓ LINK  
 [미(간)지 사이트 바로가기](https://miganzi.vercel.app/)
+```txt
+// 프론트엔드 실행방법
+  1. git clone https://github.com/mi-gan-zi/FE-MiGanZi
+  2. yarn install
+  3. yarn start 
+// 백엔드 실행방법
+```
 
 ## 🧐 MEMBERS 
 
@@ -82,5 +89,14 @@
 ![notion](https://img.shields.io/badge/notion-000000.svg?logo=notion&logoColor=white&style=for-the-badge)
 ![figma](https://img.shields.io/badge/figma-F24E1E.svg?logo=figma&logoColor=white&style=for-the-badge)
 ![swagger](https://img.shields.io/badge/swagger-85EA2D.svg?logo=swagger&logoColor=white&style=for-the-badge)
+
+## 📄 PAGE
+
+|                                                              |                                                              |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+|     **메인 페이지**    |    **검색 페이지** |
+| ![메인페이지]() | ![아티스트페이지]() |
+
+
 
 
