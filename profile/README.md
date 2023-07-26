@@ -90,7 +90,7 @@
 ![figma](https://img.shields.io/badge/figma-F24E1E.svg?logo=figma&logoColor=white&style=for-the-badge)
 ![swagger](https://img.shields.io/badge/swagger-85EA2D.svg?logo=swagger&logoColor=white&style=for-the-badge)
 
-## 📄 PAGE
+## 📄 PAGE (추가예정)
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
