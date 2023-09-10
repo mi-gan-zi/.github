@@ -159,14 +159,6 @@
 ![swagger](https://img.shields.io/badge/swagger-85EA2D.svg?logo=swagger&logoColor=white&style=for-the-badge)
 
 
-BackEnd :  <img alt="Html" src ="https://img.shields.io/badge/3.1.1-007396.svg??style=plastic&logo=springboot&label=Spring Boot&color=green"/> <img alt="Html" src ="https://img.shields.io/badge/17-007396.svg??style=plastic&logo=java&label=JAVA&color=007396"/>  
-DB : <img alt="Html" src ="https://img.shields.io/badge/2.5.3-007396.svg??style=plastic&logo=mariadb&logoColor=white&label=MariaDB&color=4479A1"/>
-<img alt="Html" src ="https://img.shields.io/badge/6.2.6-007396.svg??style=plastic&logo=redis&logoColor=white&label=Redis&color=4479A1"/>   
-WebServer : 
-<img alt="Html" src ="https://img.shields.io/badge/3.1.1-007396.svg??style=plastic&logo=apachetomcat&label=Tomcat&color=F8DC75"/>   
-Server : <img alt="Html" src ="https://img.shields.io/badge/-000000.svg??style=plastic&logo=c&label=Cloudtype&color=232F3E"/>  
-Storage : <img alt="Html" src ="https://img.shields.io/badge/30GB-007396.svg??style=plastic&logo=googlecloud&label=GCP&color=569A31"/>  
-OS : <img alt="Html" src ="https://img.shields.io/badge/20.04 LTS-007396.svg??style=plastic&logo=Ubuntu&label=Ubuntu&color=E95420"/>  
 
 
 ## 📗 DB
